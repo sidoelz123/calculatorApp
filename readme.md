@@ -109,7 +109,7 @@ Before running the application, first install the following dependency
 - [x] Feature Operations Number
 - [x] Feature Inverse Number
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/sidoelz123/calculatorApp/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

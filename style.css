@@ -3,7 +3,6 @@
     width: 300px;
     border-radius: 20px;
     background-color: #2B2D34;
-    border: 2px solid red;
 }
 
 .display {
@@ -13,6 +12,7 @@
     color: wheat;
     gap: 0px;
     margin-top: 20px;
+    padding-top: 20px;
 }
 
 .output {

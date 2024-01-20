@@ -9,7 +9,7 @@
   <body>
     <div class="container">
       <div class="display">
-        <h1 class="output prev-screen">123 +</h1>
+        <input class="output prev-screen" value="0" disabled/>
         <input
           type="text"
           onkeypress="return event.charCode>=8 && event.charCode<=57"
@@ -21,21 +21,21 @@
       <div class="container-btn calculator-keys">
         <div class="row">
           <button class="green all-clear">AC</button>
-          <button class="green plusminus">+/-</button>
-          <button class="green percent">%</button>
+          <button class="green negative">+/-</button>
+          <button class="green persent" value="%">%</button>
           <button class="red operator" value="/">÷</button>
         </div>
         <div class="row">
           <button class="number" value="7">7</button>
           <button class="number" value="8">8</button>
           <button class="number" value="9">9</button>
-          <button class="red operator" value="*">×</button>
+          <button class="red operator" value="×">×</button>
         </div>
         <div class="row">
           <button class="number" value="4">4</button>
           <button class="number" value="5">5</button>
           <button class="number" value="6">6</button>
-          <button class="red" value="-">-</button>
+          <button class="red operator" value="-">-</button>
         </div>
         <div class="row">
           <button class="number" value="1">1</button>

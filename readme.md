@@ -14,7 +14,7 @@
     <a href="https://github.com/sidoelz123/calculatorApp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="kalap.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/sidoelz123/calculatorApp/issues">Report Bug</a>
     ·
